@@ -1,0 +1,26 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "crud",
+  "main": "index.js",
+  "scripts": {
+    "test": "crud",
+    "json:server":"json-server — watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sijincodes/lab-ajax-crud-characters.git"
+  },
+  "keywords": [
+    "crud"
+  ],
+  "author": "sijin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sijincodes/lab-ajax-crud-characters/issues"
+  },
+  "homepage": "https://github.com/sijincodes/lab-ajax-crud-characters#readme",
+  "dependencies": {
+    "json": "^11.0.0"
+  }
+}
