@@ -20,6 +20,20 @@
       "occupation": "Lives under the sea",
       "weapon": "Crabby Patty",
       "cartoon": true
+    },
+    {
+      "name": "Sijin",
+      "occupation": "student",
+      "isCartoon": true,
+      "weapon": "humor",
+      "id": 9
+    },
+    {
+      "updatedName": "Koi",
+      "updatedOccupation": "worker",
+      "updatedWeapon": "kick",
+      "isCartoonUpdate": false,
+      "id": 11
     }
   ]
 }
