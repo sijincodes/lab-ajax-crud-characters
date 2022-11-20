@@ -4,7 +4,8 @@ window.addEventListener("load", () => {
   document
     .getElementById("fetch-all")
     .addEventListener("click", function (event) {
-       console.log(charactersAPI.getFullList());
+       //console.log(charactersAPI.getFullList());
+       
     });
 
   document
@@ -63,7 +64,7 @@ window.addEventListener("load", () => {
       const weapon = document.querySelector(
         '#new-character-form input[name="weapon"]'
       ).value;
-      // console.log(isCartoon +"if cartton y/n");
+      // console.log(isCartoon +"if cartoon y/n");
       // console.log(name, ' name')
       // console.log((occupation, ' occup'));
 
